@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.34de6062.chunk.css",
+    "main.js": "/static/js/main.b807b0aa.chunk.js",
+    "main.js.map": "/static/js/main.b807b0aa.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.90f81a7f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.90f81a7f.js.map",
+    "static/js/2.07872eb9.chunk.js": "/static/js/2.07872eb9.chunk.js",
+    "static/js/2.07872eb9.chunk.js.map": "/static/js/2.07872eb9.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.be82d53ab5608bba8c23d7a87e1466da.js": "/precache-manifest.be82d53ab5608bba8c23d7a87e1466da.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/static/css/main.34de6062.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90f81a7f.js",
+    "static/js/2.07872eb9.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.b807b0aa.chunk.js"
+  ]
+}
